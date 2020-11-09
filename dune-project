@@ -1,2 +1,3 @@
-(lang dune 2.0)
+(lang dune 2.8)
 (name mirage-xen)
+(always_add_cflags false)
